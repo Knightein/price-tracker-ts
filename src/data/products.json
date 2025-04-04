@@ -1,1 +1,11 @@
-invalid json
+{
+  "https://example.com/product/1": {
+    "currentPrice": 100
+  },
+    "https://example.com/product/2": {
+        "currentPrice": 200
+    },
+    "https://example.com/product/3": {
+        "currentPrice": 300
+    }
+}
